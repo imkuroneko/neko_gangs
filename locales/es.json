@@ -1,0 +1,7 @@
+{
+    "vehicle_list_menu" : "Vehículos",
+    "press_e_open_garage" : "Presiona [E] para abrir el garage",
+    "press_e_save_vehicle" : "Presiona [E] para guardar el vehículo",
+    "press_e_open_stash" : "Presiona [E] para abrir el inventario",
+    "stash_label" : "Inventario %s"
+}
