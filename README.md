@@ -10,7 +10,8 @@
 Script para organizaciones criminales para servidores FiveM (QBCore)
 
 - Sistema de inventario.
-- Sistema de garage
+- Sistema de garage.
+- Sistema de indicación de zonas peligrosas (de cada org) con alerta al ciudadano hasta salir de dicha zona
 
 <br>
 
@@ -28,6 +29,10 @@ Script para organizaciones criminales para servidores FiveM (QBCore)
 > - La mayor parte del proyecto ahora se encuentra funcionando gracias a **ox_lib** y **ox_inventory**
 
 <hr>
+
+<h3 align="center">Marcador territorio (mapa) y alerta de zona no segura</h3>
+<img src="https://github.com/imkuroneko/neko_gangs/assets/20273059/c0fa61cf-54f1-4804-b3f8-052e47d0b754" alt="Marcador territorio (mapa) y alerta de zona no segura"/>
+<br>
 
 <h3 align="center">Punto de inventario</h3>
 <img src="https://github.com/imkuroneko/neko_gangs/assets/20273059/899094d5-ab88-4c49-b28a-4fa72145c292" alt="Punto de inventario"/>
